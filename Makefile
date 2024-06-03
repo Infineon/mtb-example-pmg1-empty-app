@@ -1,6 +1,6 @@
 ################################################################################
 # \file Makefile
-# \version 1.0
+# \version 1.1
 #
 # \brief
 # Top-level application make file.
